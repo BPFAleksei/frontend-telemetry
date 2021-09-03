@@ -2,10 +2,13 @@
 ## Acerca del proyecto
 Proyecto de practica de telemetría del Frontend con Matomo. 
 Es parte de mis practicas en el curso de DevOps de mundosE y la Universidad Nacional de Cordoba, Argentina.
-La arquitectura es la siguiente:
+
+Matomo es una alternativa a Google Analytics y en OpenSource
+
+La arquitectura general del proyecto es la siguiente:
 ![image](https://user-images.githubusercontent.com/32690411/132074149-0ec34226-7c66-4a03-84f0-3a4509cc58a5.png)
 
-### Built With
+### Construido Con
 El proyecto consta de un cluster en Kubernetes, con containers de MySQL como base de datos de Matomo, Matomo, y un frontend hecho en React el cual utiliza un JsonFy para fines de prueba en el front.
 
 * [K3S](https://k3s.io/)
@@ -13,11 +16,11 @@ El proyecto consta de un cluster en Kubernetes, con containers de MySQL como bas
 
 <!-- GETTING STARTED -->
 ## Empezando
-
 Este es un ejemplo de como realizar metricas en el frontend, con matomo.
 
 ### Pre Requisitos
 Como prerequisito se debe tener instalado K3S.
+y se deben levantar todos los containers.
 
 <!-- USAGE EXAMPLES -->
 ## Uso
