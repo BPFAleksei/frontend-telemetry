@@ -3,7 +3,7 @@
 Proyecto de practica de telemetría del Frontend con Matomo. 
 Es parte de mis practicas en el curso de DevOps de mundosE y la Universidad Nacional de Cordoba, Argentina.
 
-Matomo es una alternativa a Google Analytics y en OpenSource
+Matomo es una alternativa a Google Analytics y es OpenSource
 
 La arquitectura general del proyecto es la siguiente:
 ![image](https://user-images.githubusercontent.com/32690411/132074149-0ec34226-7c66-4a03-84f0-3a4509cc58a5.png)
