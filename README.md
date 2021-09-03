@@ -37,6 +37,6 @@ Luego al realizar visitas e interactuar con la aplicación de frontend podemos v
 <!-- CONTACT -->
 ## Contact
 
-Mgtr. Aleksei Escobar - [@tsl_aleksei](https://twitter.com/tsl_aleksei) - aleksei.escobar@gmail.com
+Mgtr. Aleksei Escobar - [@aleksei_tsl](https://twitter.com/aleksei_tsl) - aleksei.escobar@gmail.com
 
 Project Link: [https://github.com/BPFAleksei/frontend-telemetry](https://github.com/BPFAleksei/frontend-telemetry)
