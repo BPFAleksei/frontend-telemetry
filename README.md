@@ -33,6 +33,7 @@ Luego al realizar visitas e interactuar con la aplicación de frontend podemos v
 ![image](https://user-images.githubusercontent.com/32690411/132074697-900d74ce-07ea-4869-afdb-d89cc57fe6e0.png)
 ![image](https://user-images.githubusercontent.com/32690411/132074701-ebd32ee8-94f8-4af5-894b-326fc2229381.png)
 ![image](https://user-images.githubusercontent.com/32690411/132074721-37e17962-a77f-4617-a5b6-9cbf4bea5b55.png)
+![image](https://user-images.githubusercontent.com/32690411/132075447-00ff94c6-1d15-448a-8928-2249374aa4b6.png)
 
 <!-- CONTACT -->
 ## Contact
