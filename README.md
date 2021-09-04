@@ -23,7 +23,16 @@ Como prerequisito se debe tener instalado K3S.
 y se deben levantar todos los containers.
 
 <!-- USAGE EXAMPLES -->
-## Uso
+         
+- Instalar k3s 
+- Deploy Mysql 
+- Deploy/Install Matomo 
+- Deploy Nginx con App
+- Agregar dominios Hosts
+- Crear Reglas Ingress
+- Test
+
+
 Teniendo el cluster desplegado se ingresa a la url de matomo
 ![image](https://user-images.githubusercontent.com/32690411/132074643-e0d8f107-c34d-4e10-829a-1ca2bf937dbd.png)
 
